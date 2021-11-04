@@ -1,10 +1,10 @@
-## Creating your own Blog
+# Creating your own Blog
 
-##Goal:
+# Goal:
   
   Making a blog website that has three connected pages. This will test your skills and knowledge of CSS HTML as well as bootstrap. Time to show off all that you have learned so far!!!! Good luck. 
 
-##Rules: <img src="Darules.jpg">
+# Rules: <img src="Darules.jpg">
 
   1. Team size of 2
   2. Must use HTML
@@ -18,7 +18,7 @@
   11. Follow the given website template
     ex: <img src="./Bad_Template.jpg">
 
-##Steps
+# Steps
 
   1. Choose a team member to start a new github repository to work on your project in. Assign the other team mate as a contributor and have them clone the repo to their local system.  
 
@@ -36,7 +36,7 @@
 
   7. Test run your website and polish it.
 
-##Resources
+# Resources
 
 <a href="http://html.net/tutorials/html/">HTML Resource</a> <br>
 <a href="https://medium.com/level-up-web/100-css-resources-for-web-designers-and-developers-c060bed7a362">CSS Resource</a> <br>
