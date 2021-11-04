@@ -16,7 +16,7 @@
   8. Must use only 1 CSS style page to style each of your blog pages. 
   10. Time limit of 1 hour and 15 mins
   11. Follow the given website template
-    ex: <img src="./Bad_Template.jpg"
+    ex: <img src="./Bad_Template.jpg">
 
 ##Steps
 
