@@ -38,7 +38,7 @@
 
 ##Resources
 
-<a href="http://html.net/tutorials/html/">HTML Resource</a>
-<a href="https://medium.com/level-up-web/100-css-resources-for-web-designers-and-developers-c060bed7a362">CSS Resource</a>
+<a href="http://html.net/tutorials/html/">HTML Resource</a> <br>
+<a href="https://medium.com/level-up-web/100-css-resources-for-web-designers-and-developers-c060bed7a362">CSS Resource</a> <br>
 <a href="https://bootstrap-cheatsheet.themeselection.com/index.html">bootstrap Resource</a>
 
