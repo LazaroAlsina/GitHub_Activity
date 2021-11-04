@@ -4,7 +4,7 @@
   
   Making a blog website that has three connected pages. This will test your skills and knowledge of CSS HTML as well as bootstrap. Time to show off all that you have learned so far!!!! Good luck. 
 
-##Rules: 
+##Rules: <img src="Darules.jpg">
 
   1. Team size of 2
   2. Must use HTML
@@ -38,5 +38,7 @@
 
 ##Resources
 
-
+<a href="http://html.net/tutorials/html/">HTML Resource</a>
+<a href="https://medium.com/level-up-web/100-css-resources-for-web-designers-and-developers-c060bed7a362">CSS Resource</a>
+<a href="https://bootstrap-cheatsheet.themeselection.com/index.html">bootstrap Resource</a>
 
