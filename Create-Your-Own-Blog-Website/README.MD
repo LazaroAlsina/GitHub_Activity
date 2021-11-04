@@ -24,6 +24,19 @@
 
   2. Create your file structure. You will need 3 individual html files, 1 for each page of your blog website and one stlye.css file. 
 
-  3. Link bootstrap  & link your CSS styling sheet on all HTML files.
+  3. Link bootstrap & link your CSS style sheet on all HTML files.
+
+  4. Create a Nav bar that links all three individual HTML files like in the Bad_Template and make sure it is the same style on all three pages.
+  (Try using bootstrap for this)
+
+  5. Make some content up for your home page! Pictures, random text, and/or videos! Whatever you can think of.
+  (ex: Blogs about dogs, with lots of pictures and videos.)
+  
+  6. Make a footer that can be used for all three HTML pages, make sure the style and size are the same.
+
+  7. Test run your website and polish it.
+
+##Resources
+
 
 
