@@ -24,7 +24,7 @@
 ## How to push a branch... 
     - `git status`
     - `git add .`
-    - `git commit -m 'message'`
+    - `git commit -m 'messages'`
     - `git status`
     - `git pull origin main`
     - `git push origin branchName`
