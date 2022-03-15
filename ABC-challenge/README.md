@@ -39,3 +39,6 @@
 - Remember that since you are "forking" this repository you do NOT need to create a new repository. Forking will do that for you, and grab all necessary starter code. Start by cloning the repo to your local machine after forking and adding collaborators. Don't forget to set the security on your main branch though!
 
 ## If you get stuck, come to the main room!
+
+## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!
+
