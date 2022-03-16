@@ -24,7 +24,7 @@
 ## How to push a branch... 
     - `git status`
     - `git add .`
-    - `git commit -m 'message'`
+    - `git commit -m 'messages'`
     - `git status`
     - `git pull origin main`
     - `git push origin branchName`
@@ -39,3 +39,12 @@
 - Remember that since you are "forking" this repository you do NOT need to create a new repository. Forking will do that for you, and grab all necessary starter code. Start by cloning the repo to your local machine after forking and adding collaborators. Don't forget to set the security on your main branch though!
 
 ## If you get stuck, come to the main room!
+
+dont be afraid to ask questions 
+bug?
+rolliepollie
+## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!
+
+Rollie pollies are sooo cute!!!
+
+EVERYONE GETS BUUUUUGGGSSSS!!!!!!
