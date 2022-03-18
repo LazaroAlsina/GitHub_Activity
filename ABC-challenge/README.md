@@ -41,3 +41,11 @@
 ## If you get stuck, come to the main room!
 
 asdfjlknaslkjfnadskljsfanjklg
+dont be afraid to ask questions 
+bug?
+rolliepollie
+## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!## Here is a sneaky thing I added let's GOOOOOOOO!!!!
+
+Rollie pollies are sooo cute!!!
+
+EVERYONE GETS BUUUUUGGGSSSS!!!!!!
