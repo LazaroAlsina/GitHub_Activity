@@ -1,6 +1,6 @@
 # GitHub_Activity
 
-Welcome! This is the main repo for programming challeges you can fork and solve for yourself!?
+Welcome! This is the main repo for programming challeges you can fork and solve for yourself!
 
 1.ABC challenge or Scrum-Github-ABC
 
