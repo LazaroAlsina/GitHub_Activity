@@ -122,3 +122,33 @@ if (corn != pie) {
 
 //Extra credit question, why is it important to know this difference? What is a real life example of this being usful?
 //Extra credit answer, Sometimes we don't want if else or else to be activiate in our code. This can be due to a concept call program flow. If an else is a catch all, and we use it incorrectly for a logical choice, it can cause a bug where "There is no burgers in the moon!" example to always be displayed instead of "error".
+
+//What is the output of this code?
+
+if (corn > pie || corn !== pie){
+    console.log("Corn or pie?")
+}
+
+//Answer, it will pring out "corn or pie" because we are using an or operator. If any of the statments within the () is correct, the code will be true, therefore it will print it.
+
+//What is the output of this code?
+
+if (corn < pie && corn == pie){
+    console.log("I got corn and pie!?")
+}
+else {
+    console.log("I want both corn and pie!")
+}
+
+//Answer, "I want both corn and pie!" Because one of the operations is not true which is "corn == pie" this condition becomes false since corn is 0 and pie is always 1.
+
+//What is the outcome of this code?
+
+if (corn < pie && corn !== pie){
+    console.log("I got corn and pie!?")
+}
+else {
+    console.log("I want both corn and pie!")
+}
+
+//Answer, "I got both corn and pie!"
