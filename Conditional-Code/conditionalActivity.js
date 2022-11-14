@@ -6,7 +6,7 @@ if (pie) {
     console.log("I love pie");
 }
 
-//Answer "I love pie" because its a true statment
+//Answer:
 
 
 //What is the outcome of this operation?
@@ -16,7 +16,7 @@ if (corn) {
     console.log("I love corn");
 }
 
-//Answer, nothing, the 0 means it off or closed. 
+//Answer: 
 
 
 //What is the outcome of this operation
@@ -28,7 +28,7 @@ if (pie) {
     }
 }
 
-//Answer, I love corn because we had changed corn from a false statment to a true one now.
+//Answer:
 
 //What is the output of this operations?
 
@@ -37,7 +37,7 @@ if (corn) {
     console.log("I love corn");
 }
 
-//Anwer, "I love corn" because we change corn from 0 to 1. We need keep track of when our Variable change.
+//Anwer:
 
 
 //What is the outcome of this operation?
@@ -45,7 +45,7 @@ if (corn < pie){
     console.log("Pie is better!")
 }
 
-//Answer, Pie will not print out because corn is 1, and pie is alway one therefore its a false statment.
+//Answer:
 
 
 //Make a if statment that will print "Pie is better" by changing corn from 1 to 0.
@@ -55,7 +55,7 @@ if (corn < pie){
     console.log("Pie is better!")
 }
 
-//Anwer, change corn from 1 to 0.
+//Anwer:
 
 
 //Question: How do we write a simple if statment that pie is better instead of pie? Use the question above as a template, make sure corn is = to 1
@@ -65,45 +65,43 @@ if (corn == pie){
     console.log("Pie is better!")
 }
 
-//Answer replace the < to a ==
+//Answer:
 //Extra credit, why does == work and not ===?
-//Extra credit answer, because == means different data types with the same value are taken in account. === must have the same datatype and value.
+//Extra credit answer
 
 //Question: How do we display the datatype of pie and corn?
 
-console.log(typeof pie, typeof corn)
+console.log()
 
-//Answer, pie's datatype is a boolean, Corn's datatype is a number.
+//Answer:
 
-//Question, how can
 
 //What is the output of this?
 
 let burger="The best burgers are made at the moon"
 
 if(corn === pie){
-    console.log(burger)
-}
-else {
-    console.log("There are no burgers on the moon!")
-}
+        console.log(burger)
+    }
+    else {
+        console.log("There are no burgers on the moon!")
+    }
 
-//Answer, There are no burgers on the moon! This is because corn's datatype and pie is not true. 
+//Answer: 
 
-//Question: How do we add another if within the last question in case there is another condition meet?
+
+//Question: How do we add another if within the last question in case there is another condition meet using the "else if" method?
 
 burger="The best burgers are made at the moon"
 
 if(corn === pie){
         console.log(burger)
-    } else if (corn == pie) {
-        console.log("The best burgers will be made at the moon.")
     } 
     else {
         console.log("There are no burgers on the moon!")
     }
 
-//Answer, place an else if between the if and else and add a condtional that is == instead of ===
+//Answer:
 
 //What is the output base on this operation?
 
@@ -118,10 +116,10 @@ if (corn != pie) {
     console.log("There are no burgers on the moon!")
 }
 
-//Anwer, There are no burgers on the moon! This is because the logical flow is the same, if we go to all the if statments, the last will be true and print it.
+//Answer:
 
 //Extra credit question, why is it important to know this difference? What is a real life example of this being usful?
-//Extra credit answer, Sometimes we don't want if else or else to be activiate in our code. This can be due to a concept call program flow. If an else is a catch all, and we use it incorrectly for a logical choice, it can cause a bug where "There is no burgers in the moon!" example to always be displayed instead of "error".
+//Extra credit answer:
 
 //What is the output of this code?
 
@@ -129,7 +127,7 @@ if (corn > pie || corn !== pie){
     console.log("Corn or pie?")
 }
 
-//Answer, it will pring out "corn or pie" because we are using an or operator. If any of the statments within the () is correct, the code will be true, therefore it will print it.
+//Answer:
 
 //What is the output of this code?
 
@@ -140,7 +138,7 @@ else {
     console.log("I want both corn and pie!")
 }
 
-//Answer, "I want both corn and pie!" Because one of the operations is not true which is "corn == pie" this condition becomes false since corn is 0 and pie is always 1.
+//Answer:
 
 //What is the outcome of this code?
 
@@ -151,4 +149,4 @@ else {
     console.log("I want both corn and pie!")
 }
 
-//Answer, "I got both corn and pie!"
+//Answer:
