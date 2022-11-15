@@ -48,17 +48,17 @@ if (corn < pie){
 //Answer:
 
 
-//Make a if statment that will print "Pie is better" by changing corn from 1 to 0.
+//Make a "if" statment that will print "Pie is better" by changing corn from 1 to 0.
 
 corn = 1;
 if (corn < pie){
     console.log("Pie is better!")
 }
 
-//Anwer:
+//Answer:
 
 
-//Question: How do we write a simple if statment that pie is better instead of pie? Use the question above as a template, make sure corn is = to 1
+//Question: How do we write a simple "if" statment that corn is better then pie?
 
 corn = 1;
 if (corn == pie){
@@ -66,8 +66,8 @@ if (corn == pie){
 }
 
 //Answer:
-//Extra credit, why does == work and not ===?
-//Extra credit answer
+//Extra credit: why does == work and not ===?
+//Extra credit answer:
 
 //Question: How do we display the datatype of pie and corn?
 
@@ -90,7 +90,7 @@ if(corn === pie){
 //Answer: 
 
 
-//Question: How do we add another if within the last question in case there is another condition meet using the "else if" method?
+//Question: How do we add an "if else" between "if" and "else"?
 
 burger="The best burgers are made at the moon"
 
@@ -118,7 +118,7 @@ if (corn != pie) {
 
 //Answer:
 
-//Extra credit question, why is it important to know this difference? What is a real life example of this being usful?
+//Extra credit question: why is it important to know this difference? What is a real life example of this being usful?
 //Extra credit answer:
 
 //What is the output of this code?
